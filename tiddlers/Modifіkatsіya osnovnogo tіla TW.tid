@@ -1,0 +1,16 @@
+created: 20171212095522997
+modified: 20171216200804854
+order: 040
+tags: [[Додаткові інструменти]]
+title: Модифікація основного тіла TW
+topic: Проект
+type: text/vnd.tiddlywiki
+
+; Розширення ''Story River''
+: у `Control Panel / Appearance / Theme Tweaks` параметри `Story right`, `Story width`, `Tiddler width` збільшені на 200px, а `Sidebar width` зменшений на стільки ж
+; Приховано виведення дати тідлера під титулом (subtitle)
+: закоментовано вміст системного тідлера $:/core/ui/ViewTemplate/subtitle, інший варіант - у цьому ж системному тідлері видалити тег `$:/tags/SideBar`
+; Перемикання тідлерів між двома мовами
+: вставлена кнопка перемикання в у правому верхньому куті тідлера `ViewToolbar` - $:/boa/swapbutton із зображенням $:/boa/img/swap.svg; процедура проведена за описом [[тут|https://tiddlywiki.com/#Page%20and%20tiddler%20layout%20customisation]] та [[тут|http://tw5custom.tiddlyspot.com/#Buttons]]; назва тідлера іншою мовою зберігається у полі `crossref`; потрібна таке дороблення: у разі відсутності тідлера на перемикання він створюється
+
+

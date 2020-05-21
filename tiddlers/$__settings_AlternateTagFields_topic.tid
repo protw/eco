@@ -1,0 +1,11 @@
+color: #0080c0
+created: 20171211121509748
+fieldname: topic
+hide_in_edit_mode: 
+hide_in_view_mode: true
+label: Тема
+modified: 20171211121559343
+title: $:/settings/AlternateTagFields/topic
+type: text/vnd.tiddlywiki
+wikify: 
+

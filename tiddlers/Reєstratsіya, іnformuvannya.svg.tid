@@ -1,0 +1,147 @@
+created: 20180329101228525
+modified: 20180409204451301
+tags: [[Реєстрація, інформування]]
+title: Реєстрація, інформування.svg
+topic: ОВД2
+type: text/vnd.tiddlywiki
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" fill-rule="evenodd" stroke-linecap="square" stroke-miterlimit="3" color-interpolation-filters="sRGB" font-size="12" overflow="visible" viewBox="0 0 813.996 368.442">
+  <style>
+    .st301{fill:#dde2cd;stroke:#50632a;stroke-linecap:round;stroke-linejoin:round;stroke-width:.24}.st302{fill:#000;font-family:Calibri;font-size:1.16666em}.st303{font-size:1em}.st304{marker-end:url(#mrkr2-33);stroke-width:.75;stroke-linecap:round;stroke-linejoin:round}.st304,.st306,.st307{stroke:#50632a}.st306,.st307,.st308{stroke-linecap:round;stroke-linejoin:round}.st306{fill:none;stroke-dasharray:0,2.7;stroke-width:.54}.st307{stroke-width:.75}.st308{fill:#fff;stroke:#000;stroke-dasharray:1.68,1.2;stroke-width:.24}.st309{fill:#000;font-family:Calibri;font-size:1.08334em;font-weight:700}.st310{font-size:1em;font-weight:400}.st311,.st313{stroke-linecap:round;stroke-linejoin:round}.st311{marker-end:url(#mrkr2-97);stroke:#000;stroke-dasharray:5.25,3.75;stroke-width:.75}.st313{fill:#fff;stroke:#50632a;stroke-dasharray:3.78,2.7;stroke-width:.54}.st314{fill:#000;font-family:Calibri;font-size:1.16666em;font-weight:700}
+  </style>
+  <defs id="Markers">
+    <path id="lend2" d="M1 1L0 0l1-1v2"/>
+    <marker id="mrkr2-33" fill="#50632a" stroke="#50632a" stroke-width=".229" orient="auto" overflow="visible" refX="-4.36">
+      <use transform="scale(-4.36)" xlink:href="#lend2"/>
+    </marker>
+    <marker id="mrkr2-97" fill="#000" stroke="#000" stroke-width=".229" orient="auto" overflow="visible" refX="-4.36">
+      <use transform="scale(-4.36)" xlink:href="#lend2"/>
+    </marker>
+  </defs>
+  <a xlink:href="#Внесення до Реєстру">
+    <g id="shape1-1" transform="translate(204.969 -245.973)">
+      <rect width="120.472" height="85.039" y="283.403" class="st301"/>
+      <text x="22.78" y="321.72" class="st302">
+        Внесення до <tspan x="37.51" class="st303" dy="1.2em">Реєстру</tspan>
+      </text>
+    </g>
+  </a>
+  <a xlink:href="#Оприлюднення повідомлення про ПД">
+    <g id="shape2-5" transform="translate(346.702 -245.973)">
+      <rect width="120.472" height="85.039" y="283.403" class="st301"/>
+      <text x="13.94" y="313.32" class="st302">
+        Оприлюднення <tspan x="17.04" class="st303" dy="1.2em">Повідомлення</tspan> <tspan x="27.41" class="st303" dy="1.2em">про ПД</tspan>, ТО
+      </text>
+    </g>
+  </a>
+  <a xlink:href="#Інформування Заявника">
+    <g id="shape3-10" transform="translate(488.554 -139.554)">
+      <rect width="120.472" height="85.039" y="283.403" class="st301"/>
+      <text x="17.58" y="321.72" class="st302">
+        Інформування <tspan x="32.77" class="st303" dy="1.2em">Заявника</tspan>
+      </text>
+    </g>
+  </a>
+  <a xlink:href="#Внесення до Реєстру">
+    <g id="shape4-14" transform="translate(346.822 -139.554)">
+      <rect width="120.472" height="85.039" y="283.403" class="st301"/>
+      <text x="22.78" y="321.72" class="st302">
+        Внесення до <tspan x="37.51" class="st303" dy="1.2em">Реєстру</tspan>
+      </text>
+    </g>
+  </a>
+  <a xlink:href="#Оприлюднення повідомлення про ПД">
+    <g id="shape5-18" transform="translate(346.822 -33.254)">
+      <rect width="120.472" height="85.039" y="283.403" class="st301"/>
+      <text x="13.94" y="313.32" class="st302">
+        Оприлюднення <tspan x="17.04" class="st303" dy="1.2em">Повідомлення </tspan><tspan x="26.35" class="st303" dy="1.2em">про ПД</tspan>, ЦО
+      </text>
+    </g>
+  </a>
+  <a xlink:href="#Перенаправлення повідомлення про ПД на ЦО">
+    <g id="shape7-23" transform="translate(488.554 -33.254)">
+      <rect width="120.472" height="85.039" y="283.403" class="st301"/>
+      <text x="6.26" y="313.32" class="st302">
+        Перенаправлення <tspan x="17.75" class="st303" dy="1.2em">повідомлення </tspan><tspan x="20.48" class="st303" dy="1.2em">про ПД на ТО</tspan>
+      </text>
+    </g>
+  </a>
+  <path id="shape8-28" d="M0 361.36h17.99" class="st304" transform="translate(325.442 -281.406)"/>
+  <path id="shape9-34" d="M0 361.36h17.99" class="st304" transform="translate(467.174 -281.406)"/>
+  <a xlink:href="#Перенаправлення повідомлення про ПД на ЦО">
+    <g id="shape13-39" transform="translate(488.434 -245.973)">
+      <rect width="120.472" height="85.039" y="283.403" class="st301"/>
+      <text x="6.26" y="313.32" class="st302">
+        Перенаправлення <tspan x="17.75" class="st303" dy="1.2em">повідомлення </tspan><tspan x="19.42" class="st303" dy="1.2em">про ПД на ЦО</tspan>
+      </text>
+    </g>
+  </a>
+  <path id="shape14-44" d="M7.03 368.44v10.63h.12v7.48" class="st304" transform="translate(541.644 -245.973)"/>
+  <path id="shape15-49" d="M0 361.36h-17.99" class="st304" transform="translate(488.554 -174.987)"/>
+  <path id="shape19-54" d="M7.09 368.44v17.99" class="st304" transform="translate(399.971 -139.554)"/>
+  <path id="shape20-59" d="M0 361.36h17.99" class="st304" transform="translate(467.294 -68.688)"/>
+  <a xlink:href="#Реєстрація в ел. кабінеті Реєстру">
+    <g id="shape21-64">
+      <path d="M0 368.44h120.47v-58.65H0v58.65z" class="st306" transform="translate(204.969 -165.946)"/>
+      <text x="26.54" y="326.52" class="st302" transform="translate(204.969 -165.946)">
+        Отримання <tspan x="26.91" class="st303" dy="1.2em">особистого </tspan><tspan x="23.21" class="st303" dy="1.2em">ключа в ЦСК</tspan>
+      </text>
+    </g>
+  </a>
+  <a xlink:href="#Реєстрація в ел. кабінеті Реєстру">
+    <g id="shape23-69">
+      <path d="M0 368.44h120.47v-58.65H0v58.65z" class="st306" transform="translate(204.969 -100.429)"/>
+      <text x="23.68" y="326.52" class="st302" transform="translate(204.969 -100.429)">
+        Реєстрація в <tspan x="17.29" class="st303" dy="1.2em">електронному </tspan><tspan x="36.76" class="st303" dy="1.2em">кабінеті</tspan>
+      </text>
+    </g>
+  </a>
+  <a xlink:href="#Реєстрація в ел. кабінеті Реєстру">
+    <g id="shape24-74">
+      <path d="M0 368.44h120.47v-58.65H0v58.65z" class="st306" transform="translate(204.969 -34.912)"/>
+      <text x="31.96" y="334.92" class="st302" transform="translate(204.969 -34.912)">
+        Внесення <tspan x="10.49" class="st303" dy="1.2em">особистих даних</tspan>
+      </text>
+    </g>
+  </a>
+  <path id="shape25-78" d="M7.09 372.09v6.87" class="st307" transform="translate(258.119 -169.597)"/>
+  <path id="shape26-81" d="M7.09 372.09v6.87" class="st307" transform="translate(258.119 -104.08)"/>
+  <path id="shape27-84" d="M7.09 368.44v21.38" class="st307" transform="translate(258.119 -245.973)"/>
+  <a xlink:href="#Повідомлення про ПД">
+    <g id="shape30-87">
+      <path d="M0 368.44h147.93V283.4H0v85.04z" class="st313" transform="translate(18.12 -139.554)"/>
+      <text x="10.77" y="314.22" class="st309" transform="translate(18.12 -139.554)">
+        Повідомлення про ПД <tspan x="8.8" class="st310" dy="1.2em">Подання повідомлення </tspan><tspan x="35.59" class="st310" dy="1.2em">про ПД до ЦО</tspan>
+      </text>
+    </g>
+  </a>
+  <path id="shape32-92" d="M0 368.44h31.83v-49.6h64.96a2.362 2.362 0 1 1 4.72 0H241v3.81" class="st311" transform="translate(166.053 -182.073)"/>
+  <a xlink:href="#Визначення обсягу досліджень (скопінг)">
+    <g id="shape33-98">
+      <path d="M0 368.44h147.93V283.4H0v85.04z" class="st313" transform="translate(647.943 -245.973)"/>
+      <text x="51.28" y="304.92" class="st314" transform="translate(647.943 -245.973)">
+        Скопінг <tspan x="38.31" class="st310" dy="1.2em">Зауваження </tspan><tspan x="22.54" class="st310" dy="1.2em">громадськості до </tspan><tspan x="18.12" class="st310" dy="1.2em">обсягу досліджень</tspan>
+      </text>
+    </g>
+  </a>
+  <path id="shape34-104" d="M0 361.36v-10.63h314.97v7.36" class="st311" transform="translate(406.938 -323.926)"/>
+  <a xlink:href="#Визначення обсягу досліджень (скопінг)">
+    <g id="shape35-109">
+      <path d="M0 368.44h147.93V283.4H0v85.04z" class="st313" transform="translate(647.943 -139.554)"/>
+      <text x="51.28" y="321.72" class="st314" transform="translate(647.943 -139.554)">
+        Скопінг <tspan x="14.05" class="st310" dy="1.2em">Інформування ДАЗВ</tspan>
+      </text>
+    </g>
+  </a>
+  <path id="shape37-113" d="M0 368.44v10.63h230.25V113.2h7.36" class="st311" transform="translate(407.058 -33.254)"/>
+  <path id="shape38-118" d="M0 368.44h10.63v106.42h15.41a2.362 2.362 0 1 1 4.73 0h5" class="st311" transform="translate(608.906 -288.493)"/>
+  <a xlink:href="#Повідомлення про ПД">
+    <g id="shape39-123">
+      <path d="M0 368.44h147.93V283.4H0v85.04z" class="st313" transform="translate(18.12 -245.973)"/>
+      <text x="10.77" y="314.22" class="st309" transform="translate(18.12 -245.973)">
+        Повідомлення про ПД <tspan x="8.8" class="st310" dy="1.2em">Подання повідомлення </tspan><tspan x="36.58" class="st310" dy="1.2em">про ПД до ТО</tspan>
+      </text>
+    </g>
+  </a>
+  <path id="shape40-128" d="M0 361.36h35.65" class="st311" transform="translate(166.053 -281.406)"/>
+</svg>

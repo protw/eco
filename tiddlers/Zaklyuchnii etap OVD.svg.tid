@@ -1,0 +1,76 @@
+created: 20180329095632388
+modified: 20180409212936525
+tags: [[Заключний етап ОВД]]
+title: Заключний етап ОВД.svg
+topic: ОВД2
+type: text/vnd.tiddlywiki
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1009.018" height="242.493" viewBox="0 0 756.762 181.87" color-interpolation-filters="sRGB" fill="none" fill-rule="evenodd" font-size="12" overflow="visible" stroke-linecap="square" stroke-miterlimit="3">
+	<style>.st701{fill:#dde2cd;stroke:#50632a;stroke-linecap:round;stroke-linejoin:round;stroke-width:.24}.st702{fill:#000;font-family:Calibri;font-size:1.16666em}.st703{font-size:1em}.st704,.st706{marker-end:url(#mrkr2-34);stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:.75}.st706{marker-end:url(#mrkr2-40);stroke:#030}</style>
+	<defs id="Markers">
+		<path d="M1 1L0 0l1-1v2" id="lend2"/>
+		<marker id="mrkr2-34" refX="-4.36" orient="auto" overflow="visible" fill="#000" stroke="#000" stroke-width=".229">
+			<use xlink:href="#lend2" transform="scale(-4.36)"/>
+		</marker>
+		<marker id="mrkr2-40" refX="-4.36" orient="auto" overflow="visible" fill="#030" stroke="#030" stroke-width=".229">
+			<use xlink:href="#lend2" transform="scale(-4.36)"/>
+		</marker>
+	</defs><a xlink:href="#Підготовка звіту про ГО і висновку з ОВД">
+		<g id="shape1-1" transform="translate(169.55 -101.919)">
+			<path class="st701" d="M0 120.039h164.882v61.831H0z"/>
+			<text x="9.72" y="138.35" class="st702">Підготовка звіту про ГО і <tspan x="55.14" dy="1.2em" class="st703">висновку </tspan>
+				<tspan x="64.95" dy="1.2em" class="st703">з ОВД</tspan>
+			</text>
+		</g>
+	</a><a xlink:href="#Оприлюднення та внесення висновку з ОВД">
+		<g id="shape2-6" transform="translate(355.691 -101.919)">
+			<path class="st701" d="M0 120.039h164.882v61.831H0z"/>
+			<text x="28.5" y="138.35" class="st702">Оприлюднення та <tspan x="21.13" dy="1.2em" class="st703">внесення до Реєстру </tspan>
+				<tspan x="36.07" dy="1.2em" class="st703">висновку з ОВД</tspan>
+			</text>
+		</g>
+	</a><a xlink:href="#Передача звітів з ОВД і ГО та висновку">
+		<g id="shape3-11" transform="translate(543.251 -101.919)">
+			<path class="st701" d="M0 120.039h164.882v61.831H0z"/>
+			<text x="15.79" y="138.35" class="st702">Отримання і передача <tspan x="10.21" dy="1.2em" class="st703">звіту про ГО і висновку з </tspan>
+				<tspan x="30.47" dy="1.2em" class="st703">ОВД </tspan>(+звіт з ОВД)</text>
+		</g>
+	</a><a xlink:href="#Прийняття рішення про провадження ПД">
+		<g id="shape4-16" transform="translate(543.251 -18.829)">
+			<path class="st701" d="M0 120.039h164.882v61.831H0z"/>
+			<text x="12.2" y="146.75" class="st702">Прийняття рішення про <tspan x="31.26" dy="1.2em" class="st703">провадження ПД</tspan>
+			</text>
+		</g>
+	</a><a xlink:href="#Оприлюднення рішення про провадження ПД">
+		<g id="shape5-20" transform="translate(357.345 -18.829)">
+			<path class="st701" d="M0 120.039h164.882v61.831H0z"/>
+			<text x="9.89" y="146.75" class="st702">Оприлюднення рішення <tspan x="18.67" dy="1.2em" class="st703">про провадження ПД</tspan>
+			</text>
+		</g>
+	</a><a xlink:href="#Внесення рішення про провадження ПД">
+		<g id="shape6-24" transform="translate(169.55 -18.12)">
+			<path class="st701" d="M0 119.331h166.772v62.539H0z"/>
+			<text x="28.85" y="138" class="st702">Внесення рішення <tspan x="19.61" dy="1.2em" class="st703">про провадження ПД </tspan>
+				<tspan x="51.48" dy="1.2em" class="st703">до Реєстру</tspan>
+			</text>
+		</g>
+	</a><g id="shape9-29" transform="translate(715.219 -132.835)">
+		<path d="M-7.09 181.87H3.54v83.09h-7.36" class="st704"/>
+	</g><g id="shape13-35" transform="translate(334.432 -125.748)">
+		<path d="M0 174.78h17.99" class="st706"/>
+	</g><g id="shape14-41" transform="translate(520.573 -125.748)">
+		<path d="M0 174.78h19.41" class="st706"/>
+	</g><g id="shape16-46" transform="translate(543.251 -42.657)">
+		<path d="M0 174.78h-17.75" class="st706"/>
+	</g><g id="shape17-51" transform="translate(357.345 -56.654)">
+		<path d="M0 188.78h-10.63v.35h-7.12" class="st706"/>
+	</g><a xlink:href="#Громадське обговорення">
+		<g id="shape18-56" transform="translate(18.12 -101.919)">
+			<path d="M0 181.87h130.17v-61.83H0v61.83z" stroke="#000" stroke-dasharray="1.68,1.2" stroke-linecap="round" stroke-linejoin="round" stroke-width=".24"/>
+			<text x="31.61" y="146.75" class="st702">Громадське <tspan x="26.54" dy="1.2em" class="st703">обговорення</tspan>
+			</text>
+		</g>
+	</a><g id="shape19-60" transform="translate(148.29 -125.748)">
+		<path d="M0 174.78h17.99" class="st704"/>
+	</g>
+</svg>

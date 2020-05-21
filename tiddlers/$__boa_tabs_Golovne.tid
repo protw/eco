@@ -1,0 +1,9 @@
+caption: Головне
+created: 20171120100100633
+list-before: $:/core/ui/SideBar/Open
+modified: 20180404093955118
+tags: $:/tags/SideBar
+title: $:/boa/tabs/Головне
+type: text/vnd.tiddlywiki
+
+<<tabs "$:/boa/tabs/english $:/boa/tabs/українська" "$:/boa/tabs/українська">>

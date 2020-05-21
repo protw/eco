@@ -1,0 +1,12 @@
+created: 20180102195008606
+crossref: Explanatory materials
+modified: 20180104155333426
+order: 050
+tags: [[Повний зміст]]
+title: Пояснювальні матеріали
+topic: ОВД СЕО
+type: text/vnd.tiddlywiki
+
+<$link to=<<currentTiddler>>>@@float:right;{{$:/core/images/link}}@@</$link>
+
+<<toc 'Пояснювальні матеріали' 'sort[order]!is[image]'>>

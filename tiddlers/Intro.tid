@@ -1,0 +1,29 @@
+created: 20171213122530449
+crossref: Вступ
+modified: 20180104150408431
+order: 010
+tags: [[Full TOC]]
+title: Intro
+topic: Project
+type: text/vnd.tiddlywiki
+
+Project PROTWECO is aimed for creation, developing and maintaining of educational materials on ecology.
+
+<<image-right "yaroslav-movchan-avatar.jpg" 14%>>
+
+The project was initiated by the community of specialists of the National Aviation University of Ukraine, each of whom at certain time and in different circumstances was influenced by a personality of [[Yaroslav Movchan|https://www.facebook.com/yaroslav.movchan.7]] (1957-2017) - an extraordinary environmentalist, organizer and Human. The very idea to imprint main thoughts and approaches of our friend Yaroslav for teaching the next generations of ecologically-minded people has generated a momentum for this project launch.
+
+Openness of the project means that anyone who wishes and feels that he/she is capable to formulate and express either a short course or individual thoughts (corrections, etc.) in any tangible aspect of ecology, is free to join this project. Also the openness of the project means that all of tools needed for work in the project are open without any restrictions of their use.
+
+How to join the project is described in detail in introductory courses [[Початок роботи]]  and [[Сумісна робота в проекті]].
+
+The project’s web page is displayed using Github Pages at:
+
+* https://protw.github.io/eco/ - Javascript version,
+* https://protw.github.io/eco/static - version without Javascript.
+
+Discussion of issues in the project can be carried out by several tools:
+
+* issues on the PROTWECO project pages in Github - https://github.com/protw/eco/issues,
+* 18-PROTW project board on Trello - https://trello.com/b/bVhdmTyB/18-protw,
+* open PROTW5 group on Facebook - https://www.facebook.com/groups/protw5.

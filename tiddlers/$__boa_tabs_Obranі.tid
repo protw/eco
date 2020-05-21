@@ -1,0 +1,22 @@
+caption: Обрані
+created: 20171211070910703
+modified: 20180103060403568
+tags: 
+title: $:/boa/tabs/Обрані
+topic: Проект
+type: text/vnd.tiddlywiki
+
+\define sel-link(tidname) @@background-color:#FEF095;padding:3px;line-height:1.8; [[$tidname$]]@@
+
+<$link to="Під капотом">@@float:right;{{$:/core/images/link}}@@</$link>
+
+<$list filter="
+[[Nav]]
+[[Вступ]] 
+[[Початок роботи]]
+[[Сумісна робота в проекті]]
+[[Презентації щодо роботи з проектом]]
+[[Створення презентації|$:/plugins/inmysocks/WizardWizard/Wizard Setup]]
+[[Пакетний пошук і заміна тегів|$:/boa/Пошук і заміна тегів]]
+"><$macrocall $name="sel-link" tidname=<<currentTiddler>>/>
+</$list>
